@@ -1,2 +1,11 @@
-# generative-ai-works
-Implementation related to generative AI
+# chatgpt-api-samples
+Generative AI services based on ChatGPT API
+
+## Contents
+- Basic interactive chat
+- Python code generator
+- Python code fixer
+- Iteration
+- PDF chat (using embedding and vector database)
+- Web chat (using SerpAPI and LangChain agent)
+- Azure OpenAI API
